@@ -1,2 +1,2 @@
-# OutliersApp
-Web application for ML outliers classifier
+# outliers-app
+Web application for machine learning model outliers classifier
